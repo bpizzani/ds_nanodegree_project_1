@@ -39,7 +39,7 @@ There are 2 notebooks available here to showcase work related to the above quest
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [HERE](https://medium.com/@bpizzani92/how-gender-and-background-affects-developers-salary-19a89b9eca5e)
-
+ 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
