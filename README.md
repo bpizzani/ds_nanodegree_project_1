@@ -13,11 +13,11 @@
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
 
 Libraries:
-pandas
-numpy
-sklearn
-matplotlib
-seaborn
+* pandas
+* numpy
+* sklearn
+* matplotlib
+* seaborn
 
 ## Project Motivation<a name="motivation"></a>
 
@@ -40,7 +40,7 @@ There are 2 notebooks available here to showcase work related to the above quest
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available HERE
+The main findings of the code can be found at the post available [HERE](https://medium.com/@bpizzani92/how-gender-and-background-affects-developers-salary-19a89b9eca5e)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
