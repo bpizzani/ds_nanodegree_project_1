@@ -23,13 +23,11 @@ Libraries:
 
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
-1. What education does different genders choose to break in the tech world ?
+1. What's the share and background of women in tech?
 
-2. What is the salary average by gender of the tech professionals?
+2. How average salary compares for Man and Woman based on formal education?
 
-3. Which formal educations in the tech world provide higher salaries for woman and other genders?
-
-4. What are the salary ranges according to different professional race backgrounds
+3. Does your Major affects your salary?
 
 Dataset source: [Stack Overflow Developer Survey, 2017. Kaggle. ](https://www.kaggle.com/datasets/stackoverflow/so-survey-2017)
 
