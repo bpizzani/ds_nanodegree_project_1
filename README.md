@@ -36,11 +36,11 @@ Dataset source: [Stack Overflow Developer Survey, 2017. Kaggle. ](https://www.ka
 
 ## File Descriptions <a name="files"></a>
 
-There are 2 notebooks available here to showcase work related to the above questions. One of them is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual questions. The second one contains some utils containign some useful functions.
+There are 2 notebooks available here to showcase work related to the above questions. One of them is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual questions. The second one, utils.py contains some useful functions to use along the notebook.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available HERE
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
