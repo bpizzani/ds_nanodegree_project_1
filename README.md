@@ -19,6 +19,8 @@ Libraries:
 * matplotlib
 * seaborn
 
+you will need to download the following datasets in order to run the notebook: [Stack Overflow Developer Survey, 2017. Kaggle. ](https://www.kaggle.com/datasets/stackoverflow/so-survey-2017)
+
 ## Project Motivation<a name="motivation"></a>
 
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
