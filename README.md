@@ -23,7 +23,7 @@ seaborn
 
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
-1. What education does different gender choose to break in the tech world ?
+1. What education does different genders choose to break in the tech world ?
 
 2. What is the salary average by gender of the tech professionals?
 
